@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "nama": "Naruto",
+      "task": "Bersepeda",
+      "id": 1
+    },
+    {
+      "nama": "Sasuke",
+      "task": "Bermain Bola",
+      "id": 2
+    },
+    {
+      "nama": "Kakashi",
+      "task": "Membaca Buku",
+      "id": 3
+    },
+    {
+      "nama": "Sakura",
+      "task": "Memasak",
+      "id": 4
+    }
+  ]
+}
